@@ -1,4 +1,4 @@
-* THIS PROJECT DOESN'T BELONG TO ME AND HAS ONLY BEEN POSTED ON GIT BECAUSE OF ITS HISTORICAL PURPOSES*
+* THIS PROJECT DOESN'T BELONG TO ME AND HAS ONLY BEEN POSTED ON GIT BECAUSE OF ITS HISTORICAL PURPOSES
 
 This Mobiles Disco server was written by Nillus. (www.nillus.net)
 The Blunk framework was written by Nillus and Mike. [office.boy from script-o-matic.net]
